@@ -22,6 +22,22 @@
 - Variables can only contain alpha-numeric characters and underscores (A-z, 0-9, and _ )
 - Variables are case-sensitive ($name and $NAME are two different variables)
 */
+$nameof = "Chirag";
+$age = 18;
+$has_money = false;
+$money_left = 1.223;
+// echo $money_left ;
 
+// echo "${nameof} has ${money_left} money left only";
+ $x =  5 + 5;
+ echo $x;
+ $y = '5' +  '5'; // in case of js they would return 55
+ echo $y;
 
-?>
+ // same math operation
+
+ // creating constant 
+ define('HOST' , 'localhost');
+ define('database' , "chirag's database");
+ echo database;
+ ?>
