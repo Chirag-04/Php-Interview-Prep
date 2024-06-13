@@ -22,4 +22,5 @@ echo "First Tut";
 //var_export() output a string
 // var_export(["Chirag maini"]); // array of string 
 //  var_export([1,2,3,4]);
+
 ?>
